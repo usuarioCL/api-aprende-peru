@@ -4,4 +4,4 @@
 
 [Diagrama de la base de datos](https://drawsql.app/teams/senati-15/diagrams/aprende-peru)
 
-![alt text](image.png)
+![alt text](IMG/image.png)
